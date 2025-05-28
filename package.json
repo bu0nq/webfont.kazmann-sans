@@ -1,0 +1,37 @@
+{
+  "name": "@bu0nq/webfont.kazmann-sans",
+  "version": "0.1.0",
+  "description": "Package for integrating WebFont Kazmann Sans",
+  "main": "kazmann-sans.css",
+  "files": [
+    "**/*.{woff2, woff}",
+    "**/*.{css, less, scss}"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/webfont.kazmann-sans.git"
+  },
+  "keywords": [
+    "kazmann-sans",
+    "font",
+    "typeface",
+    "webfont",
+    "woff",
+    "woff2",
+    "css",
+    "less",
+    "scss"
+  ],
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/webfont.kazmann-sans/issues"
+  },
+  "homepage": "https://github.com/bu0nq/webfont.kazmann-sans#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
